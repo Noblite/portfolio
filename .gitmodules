@@ -1,0 +1,9 @@
+[submodule "noblite/themes/themes/roxo-hugo"]
+	path = noblite/themes/themes/roxo-hugo
+	url = git@github.com:StaticMania/roxo-hugo.git
+[submodule "noblite/themes/hugoplate"]
+	path = noblite/themes/hugoplate
+	url = https://github.com/zeon-studio/hugoplate
+[submodule "noblite/themes/gohugo-theme-ananke"]
+	path = noblite/themes/gohugo-theme-ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke
